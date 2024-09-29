@@ -1,0 +1,5 @@
+pymysql
+numpy
+keras
+scikit-learn
+pandas
